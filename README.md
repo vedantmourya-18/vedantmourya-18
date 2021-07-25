@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vedant Singh Mourya
-- 👀 I’m interested in App Development using flutter
+- 👀 I’m interested in Flutter App Development
 - 🌱 I’m currently pursing my B-tech in Cse
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me e-mail id :- vedantmourya18@gmail.com
